@@ -1,0 +1,110 @@
+[
+  {
+    "_id": 1,
+    "event_type": "Concert",
+    "event_name": "Winter Music Festival",
+    "event_image": "https://i.ibb.co/Ct3q33g/Music-Events.jpg",
+    "date": "2024-12-26",
+    "location": "Central Park, New York",
+    "artists": ["Cold Play", "Alan Walker", "Imagine Dragons"],
+    "ticket_price": 4000.0,
+    "available_tickets": 900,
+    "rating": 4.8,
+    "contact_info": {
+      "email": "info@eventsplanners.com",
+      "phone": "+1 (123) 456-7890"
+    },
+    "animation": "fade-up",
+    "description": "Get ready to immerse yourself in a world of music and euphoria! Join us at the Summer Music Festival for an unforgettable night featuring the incredible talents of Cold Play, Alan Walker, and Imagine Dragons. Lose yourself in the melodies, dance under the stars, and create everlasting memories."
+  },
+  {
+    "_id": 2,
+    "event_type": "Theater",
+    "event_name": "Shakespeare in the Park",
+    "event_image": "https://i.ibb.co/KxsnWvb/Theater-Events.jpg",
+    "date": "2024-12-27",
+    "location": "Birmingham, London(UK)",
+    "play_title": "Romeo and Juliet",
+    "ticket_price": 2000.0,
+    "available_tickets": 700,
+    "rating": 4.9,
+    "contact_info": {
+      "email": "info@eventsplanners.com",
+      "phone": "+1 (123) 456-7890"
+    },
+    "animation": "flip-up",
+    "description": "Step into the realm of timeless drama! Experience the magic of Shakespeare's Romeo and Juliet at our open-air Theater event. The stage is set for love, tragedy, and exceptional performances that will leave you spellbound."
+  },
+  {
+    "_id": 3,
+    "event_type": "Film Premiere",
+    "event_name": "Movie Premiere",
+    "event_image": "https://i.ibb.co/BP3MF3H/Movie-Events.jpg",
+    "date": "2024-12-25",
+    "location": "Hollywood Theater, Los Angeles",
+    "film_title": "Thor Love And Thunder",
+    "ticket_price": 3000.0,
+    "available_tickets": 800,
+    "rating": 4.6,
+    "contact_info": {
+      "email": "info@eventsplanners.com",
+      "phone": "+1 (123) 456-7890"
+    },
+    "animation": "fade-down",
+    "description": "Join us for a night of glitz and glamour at the Movie Premiere of Thor Love And Thunder. Be part of the exclusive audience at the Hollywood Theater in Los Angeles. It's your chance to witness cinematic brilliance like never before."
+  },
+  {
+    "_id": 4,
+    "event_type": "Comedy Show",
+    "event_name": "Stand Up Comedy Show",
+    "event_image": "https://i.ibb.co/fpHqSnM/Commedy-Events.jpg",
+    "date": "2024-12-26",
+    "location": "Comedy Club, Chicago",
+    "artists": ["Charlie Williams", "Stan Boardman", "Bernard Manning"],
+    "ticket_price": 8000.0,
+    "available_tickets": 300,
+    "rating": 4.5,
+    "contact_info": {
+      "email": "info@eventsplanners.com",
+      "phone": "+1 (123) 456-7890"
+    },
+    "animation": "fade-right",
+    "description": "Prepare for an evening filled with laughter and joy at our Stand-Up Comedy Night! Comedian 1, Comedian 2, and Comedian 3 are here to tickle your funny bone. Get ready for a hilarious ride and an escape from the everyday hustle."
+  },
+  {
+    "_id": 5,
+    "event_type": "Sports Event",
+    "event_name": "UEFA Champion League Finals",
+    "event_image": "https://i.ibb.co/tzFt4PN/Sports-Event2.jpg",
+    "date": "2024-12-28",
+    "location": "Istanbul, Atatürk Olympic Stadium",
+    "teams": ["Manchester City FC", "Inter Milan FC"],
+    "ticket_price": 12000.0,
+    "available_tickets": 600,
+    "rating": 5,
+    "contact_info": {
+      "email": "info@eventsplanners.com",
+      "phone": "+1 (123) 456-7890"
+    },
+    "animation": "flip-down",
+    "description": "Experience the thrill of sports history unfolding before your eyes! Join us at the Atatürk Olympic Stadium for the grand UEFA Champion League Finals showdown between Manchester City FC and Inter Milan FC. Feel the adrenaline, cheer for your heroes, and be part of the excitement."
+  },
+  {
+    "_id": 6,
+    "event_type": "Magic Show",
+    "event_name": "Mystic Magic Illusions",
+    "event_image": "https://i.ibb.co/9T4jJH2/Magic-Events.jpg",
+    "date": "2024-12-30",
+    "location": "Magical Theater, Las Vegas",
+    "artists": ["Harry Houdini", "David Blaine", "Doug Henning"],
+    "ticket_price": 7000.0,
+    "available_tickets": 500,
+    "rating": 4.7,
+    "contact_info": {
+      "email": "info@eventsplanners.com",
+      "phone": "+1 (123) 456-7890"
+    },
+    "animation": "fade-left",
+    "description": "Enter a world of wonder and enchantment at the Mystic Illusions show, featuring the mesmerizing Harry Houdini, David Blaine and Doug Henning. The stage is set at the Magical Theater in Las Vegas for mind-bending tricks, optical illusions, and a magical journey like no other."
+  }
+]

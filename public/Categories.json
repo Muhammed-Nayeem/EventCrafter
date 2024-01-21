@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1,
+    "name": "Music Festival",
+    "description": "Live performances by musicians and bands, providing entertainment to the audience.",
+    "icon": "https://i.ibb.co/5KYxRmn/Music-Icon.png",
+    "animation": "fade-up"
+  },
+  {
+    "_id": 2,
+    "name": "Theater Show",
+    "description": "Step into the realm of timeless drama! You will get the theater experience.",
+    "icon": "https://i.ibb.co/MkkwgvF/Theater-Icon.png",
+    "animation": "flip-left"
+  },
+  {
+    "_id": 3,
+    "name": "Sports Events",
+    "description": "Competitive and recreational sporting events, including tournaments and matches.",
+    "icon": "https://i.ibb.co/x28sbzQ/Sports-Icon.png",
+    "animation": "fade-down"
+  },
+  {
+    "_id": 4,
+    "name": "Film Premiere",
+    "description": "Movie premiering show will be hosted by the movie maker team and film authorities.",
+    "icon": "https://i.ibb.co/Kb1QcMw/Premier-Icon.png",
+    "animation": "fade-down"
+  },
+  {
+    "_id": 5,
+    "name": "Fun Of Commedian",
+    "description": "Get ready for a hilarious ride and an escape from the everyday hustle.",
+    "icon": "https://i.ibb.co/GT1WzRC/Comedy-Icon.png",
+    "animation": "flip-right"
+  },
+  {
+    "_id": 6,
+    "name": "Illusions and Magic",
+    "description": "Enter a world of wonder and enchantment at the Mystic Illusions show.",
+    "icon": "https://i.ibb.co/KWzGyjh/Magic-Icon.png",
+    "animation": "fade-up"
+  }
+]

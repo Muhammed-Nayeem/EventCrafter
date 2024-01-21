@@ -1,0 +1,33 @@
+[
+  {
+    "_id": 1,
+    "name": "Harrison Daniel",
+    "profession": "President Of UEFA",
+    "image": "https://i.ibb.co/NmRp2Zz/Client1.jpg",
+    "reviews_text": "UEFA Champion League Finals, a pinnacle of excellence! Electric atmosphere, outstanding games. Gratitude to all for this unforgettable experience.",
+    "posted": "7 days ago",
+    "rating": 4.5,
+    "animation": "fade-right"
+  },
+  {
+    "_id": 2,
+    "name": "Arnold Cristhoper",
+    "profession": "Journalist",
+    "image": "https://i.ibb.co/NmfX9jS/Client2.jpg",
+    "reviews_text": "Impressive movie premiere by EventPlanner. Top-notch organization, can't wait for the next one!.Thank You Organize this Event.",
+    "posted": "2 days ago",
+    "rating": 4.7,
+    "animation": "flip-up"
+  },
+
+  {
+    "_id": 3,
+    "name": "Doug Henning",
+    "profession": "Magician",
+    "image": "https://i.ibb.co/5LLXjTN/Client3.jpg",
+    "reviews_text": "Performing at the event organized by EventPlanner was an absolute delight. The audience's reactions were priceless, a magical experience.",
+    "posted": "3 days ago",
+    "rating": 4.6,
+    "animation": "fade-left"
+  }
+]
